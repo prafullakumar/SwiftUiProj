@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  newUI
+
+  Created by prafull kumar on 17/5/20.
+  Copyright © 2020 prafull kumar. All rights reserved.
+*/
+"Content" = "Если эта цель будет достигнута в эпоху Возрождения, свободы, ценность личности, которую принесла нам западная цивилизация, исчезнет в одночасье.";
+"Quotes" = "Котировки";
+"Author_Name %@" = "Имя автора: %@";

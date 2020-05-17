@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  newUI
+
+  Created by prafull kumar on 17/5/20.
+  Copyright © 2020 prafull kumar. All rights reserved.
+*/
+
+"Content" = "If this goal is achieved the era of renaissance, freedom, the value of the individual that western civilization brought us will be gone overnight. ";
+"Quotes" = "Quotes";
+"Author_Name %@" = "Author Name: %@";
